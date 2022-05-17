@@ -1,6 +1,6 @@
 {
   "resources": {
-    "start": "0x08080000",
+    "start": "0x08008000",
     "items": {
       "ID" : "12345678 DExS.SMFCB v1.10.3.0 29.11.2021 MVK www.intmash.ru",
 	  "URL" : "www.intmash.ru",
